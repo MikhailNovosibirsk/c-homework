@@ -1,0 +1,15 @@
+C:\Education\C#\sem7\homework3\obj\Debug\net7.0\homework3.csproj.AssemblyReference.cache
+C:\Education\C#\sem7\homework3\obj\Debug\net7.0\homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\C#\sem7\homework3\obj\Debug\net7.0\homework3.AssemblyInfoInputs.cache
+C:\Education\C#\sem7\homework3\obj\Debug\net7.0\homework3.AssemblyInfo.cs
+C:\Education\C#\sem7\homework3\obj\Debug\net7.0\homework3.csproj.CoreCompileInputs.cache
+C:\Education\C#\sem7\homework3\bin\Debug\net7.0\homework3.exe
+C:\Education\C#\sem7\homework3\bin\Debug\net7.0\homework3.deps.json
+C:\Education\C#\sem7\homework3\bin\Debug\net7.0\homework3.runtimeconfig.json
+C:\Education\C#\sem7\homework3\bin\Debug\net7.0\homework3.dll
+C:\Education\C#\sem7\homework3\bin\Debug\net7.0\homework3.pdb
+C:\Education\C#\sem7\homework3\obj\Debug\net7.0\homework3.dll
+C:\Education\C#\sem7\homework3\obj\Debug\net7.0\refint\homework3.dll
+C:\Education\C#\sem7\homework3\obj\Debug\net7.0\homework3.pdb
+C:\Education\C#\sem7\homework3\obj\Debug\net7.0\homework3.genruntimeconfig.cache
+C:\Education\C#\sem7\homework3\obj\Debug\net7.0\ref\homework3.dll

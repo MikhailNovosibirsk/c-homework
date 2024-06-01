@@ -1,0 +1,15 @@
+C:\Education\C#\sem7\homework2\bin\Debug\net7.0\homework2.exe
+C:\Education\C#\sem7\homework2\bin\Debug\net7.0\homework2.deps.json
+C:\Education\C#\sem7\homework2\bin\Debug\net7.0\homework2.runtimeconfig.json
+C:\Education\C#\sem7\homework2\bin\Debug\net7.0\homework2.dll
+C:\Education\C#\sem7\homework2\bin\Debug\net7.0\homework2.pdb
+C:\Education\C#\sem7\homework2\obj\Debug\net7.0\homework2.csproj.AssemblyReference.cache
+C:\Education\C#\sem7\homework2\obj\Debug\net7.0\homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\C#\sem7\homework2\obj\Debug\net7.0\homework2.AssemblyInfoInputs.cache
+C:\Education\C#\sem7\homework2\obj\Debug\net7.0\homework2.AssemblyInfo.cs
+C:\Education\C#\sem7\homework2\obj\Debug\net7.0\homework2.csproj.CoreCompileInputs.cache
+C:\Education\C#\sem7\homework2\obj\Debug\net7.0\homework2.dll
+C:\Education\C#\sem7\homework2\obj\Debug\net7.0\refint\homework2.dll
+C:\Education\C#\sem7\homework2\obj\Debug\net7.0\homework2.pdb
+C:\Education\C#\sem7\homework2\obj\Debug\net7.0\homework2.genruntimeconfig.cache
+C:\Education\C#\sem7\homework2\obj\Debug\net7.0\ref\homework2.dll
